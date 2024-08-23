@@ -32,3 +32,51 @@ O projeto utiliza as seguintes tecnologias e APIs nativas do navegador:
 
    ```sh
    git clone https://github.com/JoaoPaulo23342/Bloco-de-notas
+
+## Uso
+
+### Digite sua Nota
+
+No campo de texto, insira o texto que deseja salvar.
+
+### Nomeie seu Arquivo
+
+No campo "Nome do Arquivo", insira o nome desejado para o arquivo.
+
+### Escolha o Formato do Arquivo
+
+Use o menu suspenso para selecionar o formato do arquivo desejado:
+
+- **Arquivo de Texto (.txt):** Ideal para notas simples.
+- **Arquivo XML (.xml):** Útil para dados estruturados.
+- **Arquivo Word (.doc):** Compatível com Microsoft Word.
+
+### Salve o Arquivo
+
+Clique no botão "Salvar Arquivo". O navegador irá gerar o arquivo no formato selecionado e iniciar o download.
+
+## Exemplos
+
+- **Salvar uma nota como `anotacao.txt`:**
+  - Insira "anotacao" no campo "Nome do Arquivo".
+  - Selecione "arquivo de texto (.txt)" no menu de formato.
+  - Clique em "Salvar Arquivo".
+
+- **Salvar uma nota como `dados.xml`:**
+  - Insira "dados" no campo "Nome do Arquivo".
+  - Selecione "Arquivo XML (.xml)" no menu de formato.
+  - Clique em "Salvar Arquivo".
+
+- **Salvar uma nota como `relatorio.doc`:**
+  - Insira "relatorio" no campo "Nome do Arquivo".
+  - Selecione "Arquivo Word (.doc)" no menu de formato.
+  - Clique em "Salvar Arquivo".
+
+## Contribuição
+
+Se deseja contribuir com melhorias ou correções, siga estes passos:
+
+1. Faça um fork do repositório.
+2. Crie uma nova branch para suas alterações (`git checkout -b minha-nova-feature`).
+3. Realize as alterações e teste-as.
+4. Envie um pull request com uma descrição clara das mudanças.
