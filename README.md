@@ -23,7 +23,7 @@
    Se estiver utilizando o Git, clone o repositório para sua máquina local:
 
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/JoaoPaulo23342/pomodoro.git
 Navegue até o Diretório do Projeto:
 
 sh
