@@ -4,13 +4,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const selectMenu = document.querySelector('.save-as select');
     const saveBtn = document.querySelector('.save-btn');
   
-    // Atualiza o texto do botão quando a seleção muda
+    
     selectMenu.addEventListener('change', () => {
       const selectedFormat = selectMenu.options[selectMenu.selectedIndex].text;
       saveBtn.innerText = `Salvar Como ${selectedFormat.split(' ')[0]}`; // Atualiza o texto do botão
     });
   
-    // Salva o arquivo quando o botão é clicado
+    
     saveBtn.addEventListener('click', () => {
       const fileType = selectMenu.value;
       const fileName = fileNameInput.value || 'document';
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
       link.click();
     });
   
-    // Define o texto inicial do botão
+    
     const initialFormat = selectMenu.options[selectMenu.selectedIndex].text;
     saveBtn.innerText = `Salvar Como ${initialFormat.split(' ')[0]}`;
   });

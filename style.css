@@ -67,21 +67,14 @@ body{
   border-radius: 5px;
   border: 1px solid #bfbfbf;
 }
-.arquivos {
-    border-radius: 20px;
-}
+
 
 .option .select-menu select{
   height: 50px;
   background: none;
   
 }
-.select-menu select {
-    border-radius: 20px;
-    padding: 5px; /* Adiciona algum padding interno */
-    border: 1px solid #ccc; /* Ajuste a cor da borda conforme desejado */
-    background-color: #fff; /* Ajuste a cor de fundo conforme desejado */
-  }
+
 .wrapper .save-btn{
   color: #fff;
   cursor: pointer;
