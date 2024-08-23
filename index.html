@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!-- Coding By CodingNepal - youtube.com/codingnepal -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Bloco de Notas</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    
+    <div class="wrapper">
+        <h1 style="text-align: center; font-size: 20px; color: blue; border-bottom: 20px;">Meu Bloco de Notas</h1>
+      <textarea spellcheck="false" placeholder="Digite algo para salvar futuramente" required>Digite algo para salvar futuramente em seu bloco de notas</textarea>
+      <div class="file-options">
+        <div class="option file-name">
+          <label>Nome do Arquivo</label>
+          <input type="text" spellcheck="false" placeholder="escreva o nome do seu arquivo" class="arquivos">
+        </div>
+        <div class="option save-as">
+          <label>Como você quer salvar?</label>
+          <div class="select-menu">
+            <select>
+              <option value="text/plain">arquivo de texto (.txt)</option>
+              <option value="text/html">Arquivo HTML (.html)</option>
+              
+              <option value="application/msword">Arquivo Word (.doc)</option>
+              
+            </select>
+          </div>
+        </div>
+      </div>
+      <button class="save-btn" type="button">Salvar Arquivo</button>
+    </div>
+  </body>
+</html>
+
