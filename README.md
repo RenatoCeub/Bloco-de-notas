@@ -81,4 +81,4 @@ Se deseja contribuir com melhorias ou correções, siga estes passos:
 3. Realize as alterações e teste-as.
 4. Envie um pull request com uma descrição clara das mudanças.
 
-![Descrição da Imagem](https://i.ibb.co/abc123/imagem.png)
+<a href="https://i.ibb.co/94pWtqc/Captura-de-tela-2024-08-23-142949.png"><img src="https://i.ibb.co/94pWtqc/Captura-de-tela-2024-08-23-142949.png" alt="https://i.ibb.co/94pWtqc/Captura-de-tela-2024-08-23-142949.png" border="0"></a>
