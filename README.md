@@ -80,3 +80,5 @@ Se deseja contribuir com melhorias ou correções, siga estes passos:
 2. Crie uma nova branch para suas alterações (`git checkout -b minha-nova-feature`).
 3. Realize as alterações e teste-as.
 4. Envie um pull request com uma descrição clara das mudanças.
+
+![Descrição da Imagem](https://i.ibb.co/abc123/imagem.png)
