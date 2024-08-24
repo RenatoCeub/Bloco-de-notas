@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
         link.download = `${fileName}.${extension}`;
         link.href = fileUrl;
         link.click();
+        
     });
 
     const initialFormat = selectMenu.options[selectMenu.selectedIndex].text;

@@ -1,0 +1,22 @@
+{
+  "name": "bloco-de-notas",
+  "version": "1.0.0",
+  "description": "um bloco de notas em JS",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoPaulo23342/Bloco-de-notas.git"
+  },
+  "author": "Alunos do Uniceub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoPaulo23342/Bloco-de-notas/issues"
+  },
+  "homepage": "https://github.com/JoaoPaulo23342/Bloco-de-notas#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
