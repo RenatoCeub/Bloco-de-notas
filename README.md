@@ -72,13 +72,23 @@ Clique no botão "Salvar Arquivo". O navegador irá gerar o arquivo no formato s
   - Selecione "Arquivo Word (.doc)" no menu de formato.
   - Clique em "Salvar Arquivo".
 
-## Contribuição
+Clonando um Repositório Git
+Para clonar um repositório Git, siga estas instruções:
 
-Se deseja contribuir com melhorias ou correções, siga estes passos:
 
-1. Faça um fork do repositório.
-2. Crie uma nova branch para suas alterações (`git checkout -b minha-nova-feature`).
-3. Realize as alterações e teste-as.
-4. Envie um pull request com uma descrição clara das mudanças.
+# Instalando e Usando Extensões do Google Chrome
+<h2>Para instalar e usar extensões no Google Chrome, siga estas etapas:</h2>
+
+Acesse a Chrome Web Store:
+Abra o Google Chrome em seu computador.
+Clique nos três pontos no canto superior direito e selecione “Extensões” ou digite chrome://extensions/ na barra de endereços e pressione Enter.
+Isso abrirá a Chrome Web Store, onde você pode encontrar várias extensões.
+Encontre a Extensão Desejada:
+Use a barra de pesquisa para procurar a extensão pelo nome ou função desejada.
+Você também pode navegar pelas categorias para encontrar extensões recomendadas.
+Instale a Extensão:
+Quando encontrar a extensão desejada, clique em “Usar no Chrome”.
+Se necessário, confirme as permissões ou dados solicitados.
+A extensão será instalada e aparecerá na barra de ferramentas do navegador.
 
 <a href="https://i.ibb.co/94pWtqc/Captura-de-tela-2024-08-23-142949.png"><img src="https://i.ibb.co/94pWtqc/Captura-de-tela-2024-08-23-142949.png" alt="https://i.ibb.co/94pWtqc/Captura-de-tela-2024-08-23-142949.png" border="0"></a>
